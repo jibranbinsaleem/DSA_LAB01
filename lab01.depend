@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1633451999 source:e:\pieas\dsa\lab_01\lab01\src\shape.cpp
+	"Shape.h"
+
+1633450239 e:\pieas\dsa\lab_01\lab01\include\shape.h
+	<string>
+
+1633455966 source:e:\pieas\dsa\lab_01\lab01\src\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1633450290 e:\pieas\dsa\lab_01\lab01\include\rectangle.h
+	<Shape_2D.h>
+
+1633450254 e:\pieas\dsa\lab_01\lab01\include\shape_2d.h
+	<Shape.h>
+
+1633453638 source:e:\pieas\dsa\lab_01\lab01\src\shape_3d.cpp
+	"Shape_3D.h"
+	<iostream>
+
+1633450806 e:\pieas\dsa\lab_01\lab01\include\shape_3d.h
+	<Shape.h>
+
+1633450961 source:e:\pieas\dsa\lab_01\lab01\src\shape_2d.cpp
+	<iostream>
+	"Shape_2D.h"
+
+1633455982 source:e:\pieas\dsa\lab_01\lab01\src\square.cpp
+	<iostream>
+	"Square.h"
+
+1633450402 e:\pieas\dsa\lab_01\lab01\include\square.h
+	<Shape_2D.h>
+
+1633455399 source:e:\pieas\dsa\lab_01\lab01\src\circle.cpp
+	<iostream>
+	"Circle.h"
+
+1633450032 e:\pieas\dsa\lab_01\lab01\include\circle.h
+	<Shape_2D.h>
+
+1633452674 source:e:\pieas\dsa\lab_01\lab01\main.cpp
+	<iostream>
+	"Shape.h"
+	"Circle.h"
+	"Rectangle.h"
+	"Square.h"
+	"Sphere.h"
+	"Cube.h"
+
+1633455053 e:\pieas\dsa\lab_01\lab01\include\sphere.h
+	<Shape_3D.h>
+
+1633455427 e:\pieas\dsa\lab_01\lab01\include\cube.h
+	<Shape_3D.h>
+
+1633455958 source:e:\pieas\dsa\lab_01\lab01\src\cube.cpp
+	"Cube.h"
+	<iostream>
+
+1633455978 source:e:\pieas\dsa\lab_01\lab01\src\sphere.cpp
+	"Sphere.h"
+	<iostream>
+
